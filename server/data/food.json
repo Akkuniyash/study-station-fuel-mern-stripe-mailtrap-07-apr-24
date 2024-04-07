@@ -1,0 +1,122 @@
+[
+  {
+    "foodName": "Veg Briyani",
+    "price": 60,
+    "description": "Delicious Veg Briyani to satisfy your cravings",
+    "rating": 4,
+    "images": [
+      {
+        "image": "/images/VegBriyani.png"
+      }
+    ],
+    "category": "Main Courses",
+    "availability":"yes",
+    "numOfReviews": 10,
+    "reviews": []
+  },
+  {
+    "foodName": "Mutton Briyani",
+    "price": 100,
+    "description": "Spicy Mutton Briyani for an unforgettable meal",
+    "rating": 4.5,
+    "images": [
+      {
+        "image": "/images/MuttonBriyani.png"
+      }
+    ],
+    "category": "Main Courses",
+    "availability":"yes",
+    "numOfReviews": 10,
+    "reviews": []
+  },
+  {
+    "foodName": "Chicken Fried Rice",
+    "price": 50,
+    "description": "Savor the Flavorful Chicken Fried Rice delight",
+    "rating": 3.8,
+    "images": [
+      {
+        "image": "/images/ChickenFriedRice.png"
+      }
+    ],
+    "category": "Main Courses",
+    "availability":"yes",
+    "numOfReviews": 10,
+    "reviews": []
+  },
+  {
+    "foodName": "Chicken Kabab",
+    "price": 14.75,
+    "description": "Indulge in the succulent taste of Chicken Kabab",
+    "rating": 4.2,
+    "images": [
+      {
+        "image": "/images/ChickenKabab.png"
+      }
+    ],
+    "category": "Main Courses",
+    "availability":"yes",
+    "numOfReviews": 10,
+    "reviews": []
+  },
+  {
+    "foodName": "Coke",
+    "price": 17.50,
+    "description": "Refresh Yourself with the classic taste of Coke",
+    "rating": 4.6,
+    "images": [
+      {
+        "image": "/images/Coke.png"
+      }
+    ],
+    "category": "Beverages",
+    "availability":"yes",
+    "numOfReviews": 10,
+    "reviews": []
+  },
+  {
+    "foodName": "Fanta",
+    "price": 10,
+    "description": "Quench Your Thirst with the fruity flavor of Fanta",
+    "rating": 4.8,
+    "images": [
+      {
+        "image": "/images/Fanta.png"
+      }
+    ],
+    "category": "Beverages",
+    "availability":"yes",
+    "numOfReviews": 10,
+    "reviews": []
+  },
+  {
+    "foodName": "Mushroom Curry",
+    "price": 20,
+    "description": "Taste the Spicy Mushroom Curry sensation",
+    "rating": 4.3,
+    "images": [
+      {
+        "image": "/images/MushroomCurry.png"
+      }
+    ],
+    "category": "Side Dish",
+    "availability":"yes",
+    "numOfReviews": 10,
+    "reviews": []
+  },
+  {
+    "foodName": "Mutton Curry",
+    "price": 15,
+    "description": "Experience the Flavorful Mutton Curry delight",
+    "rating": 4.0,
+    "images": [
+      {
+        "image": "/images/MuttonCurry.png"
+      }
+    ],
+    "category": "Side Dish",
+    "availability":"yes",
+    "numOfReviews": 10,
+    "reviews": []
+  }
+]
